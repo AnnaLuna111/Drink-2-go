@@ -38,11 +38,11 @@
   }
 
   &--login::before {
-    mask: url("./../img/icons/stack.svg#login-icon") no-repeat center / contain;
+    mask: url("../../img/icons/stack.svg#login-icon") no-repeat center / contain;
   }
 
   &--cart::before {
-    mask: url("./../img/icons/stack.svg#cart-icon") no-repeat center / contain;
+    mask: url("../../img/icons/stack.svg#cart-icon") no-repeat center / contain;
   }
 
   &:hover,
