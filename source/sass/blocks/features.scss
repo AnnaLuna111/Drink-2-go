@@ -60,19 +60,19 @@
   }
 
   &--speed::after {
-    background: url("/../img/icons/stack.svg#clock-icon") no-repeat center / cover;
+    background: url("./../img/icons/stack.svg#clock-icon") no-repeat center / cover;
   }
 
   &--comfort::after {
-    background: url("/../img/icons/stack.svg#shield-icon") no-repeat center / cover;
+    background: url("./../img/icons/stack.svg#shield-icon") no-repeat center / cover;
   }
 
   &--activity::after {
-    background: url("/../img/icons/stack.svg#flash-icon") no-repeat center / cover;
+    background: url("./../img/icons/stack.svg#flash-icon") no-repeat center / cover;
   }
 
   &--eco::after {
-    background: url("/../img/icons/stack.svg#leaf-icon") no-repeat center / cover;
+    background: url("./../img/icons/stack.svg#leaf-icon") no-repeat center / cover;
   }
 
   @media #{$tablet-only} {

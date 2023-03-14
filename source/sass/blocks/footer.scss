@@ -83,15 +83,15 @@
   }
 
   &--vk::after {
-    mask: url("/../img/icons/stack.svg#vk-icon") no-repeat center / contain;
+    mask: url("./../img/icons/stack.svg#vk-icon") no-repeat center / contain;
   }
 
   &--pinterest::after {
-    mask: url("/../img/icons/stack.svg#pinterest-icon") no-repeat center / contain;
+    mask: url("./../img/icons/stack.svg#pinterest-icon") no-repeat center / contain;
   }
 
   &--ok::after {
-    mask: url("/../img/icons/stack.svg#ok-icon") no-repeat center / contain;
+    mask: url("./../img/icons/stack.svg#ok-icon") no-repeat center / contain;
   }
 
   &:hover,
@@ -191,7 +191,7 @@
   }
 
   &--address::after {
-    background: url("/../img/icons/stack.svg#pin-marker") no-repeat center / contain;
+    background: url("./../img/icons/stack.svg#pin-marker") no-repeat center / contain;
   }
 
   &--tel {
@@ -199,7 +199,7 @@
     padding-left: 19px;
 
     &::after {
-      background: url("/../img/icons/stack.svg#tel-icon") no-repeat center / contain;
+      background: url("./../img/icons/stack.svg#tel-icon") no-repeat center / contain;
     }
   }
 }
@@ -236,7 +236,7 @@
       width: 12px;
       height: 16px;
       background: var(--base-grey);
-      mask: url("/../img/icons/stack.svg#logo-academy") no-repeat center / contain;
+      mask: url("./../img/icons/stack.svg#logo-academy") no-repeat center / contain;
       content: "";
     }
 
